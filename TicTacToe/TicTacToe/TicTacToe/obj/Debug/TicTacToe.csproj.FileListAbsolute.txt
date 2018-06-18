@@ -1,0 +1,60 @@
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\bin\Debug\resources.pri
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\bin\Debug\AppxManifest.xml
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\bin\Debug\TicTacToe.build.appxrecipe
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\App.g.i.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\Common\StandardStyles.g.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\MainPage.g.i.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\MainPage.g.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\XamlTypeInfo.g.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\App.xaml
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\Common\StandardStyles.xaml
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\MainPage.xaml
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\priconfig.xml
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\layout.resfiles
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\resources.resfiles
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\pri.resfiles
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\LanguageQualifiers.txt
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\ProjectArchitectures.txt
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\priconfig.xml.intermediate
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\layout.resfiles.intermediate
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\resources.resfiles.intermediate
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\pri.resfiles.intermediate
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\App_Page\GamePage.g.i.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\App_Page\GamePage.g.cs
+D:\Microsoft Student Partner\TicTacToe\TicTacToe\obj\Debug\App_Page\GamePage.xaml
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\resources.pri
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\AppxManifest.xml
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.build.appxrecipe
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App.g.i.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App_Page\GamePage.g.i.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App_Page\GamePage.g.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainPage.g.i.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainPage.g.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App.xaml
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App_Page\GamePage.xaml
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\Common\StandardStyles.xaml
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainPage.xaml
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\priconfig.xml.intermediate
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\layout.resfiles.intermediate
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\resources.resfiles.intermediate
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\pri.resfiles.intermediate
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\priconfig.xml
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\layout.resfiles
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\resources.resfiles
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\pri.resfiles
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\LanguageQualifiers.txt
+C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\ProjectArchitectures.txt

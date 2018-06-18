@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GLAP</Machine>
+    <WindowsUser>glap-pc</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8DDA1AA606A6756C7E2CA69B87D7400BB6F31C4D63F5EAF5A88B76A716B4E169</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1401ad64-0e02-444e-b251-16e10e399669_1.0.0.0_neutral__q3envqn9yywc6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1401ad64-0e02-444e-b251-16e10e399669_q3envqn9yywc6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1401ad64-0e02-444e-b251-16e10e399669</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dhwani</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-17T10:46:53.527</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe">
+      <PackagePath>TicTacToe.exe</PackagePath>
+      <Modified>2013-12-18T06:13:08.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb">
+      <PackagePath>TicTacToe.pdb</PackagePath>
+      <Modified>2013-12-18T06:13:08.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\back.png">
+      <PackagePath>Images\back.png</PackagePath>
+      <Modified>2013-12-17T10:14:28.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\computer.png">
+      <PackagePath>Images\computer.png</PackagePath>
+      <Modified>2013-12-17T05:28:50.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\go.png">
+      <PackagePath>Images\go.png</PackagePath>
+      <Modified>2013-12-17T08:33:39.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\player.png">
+      <PackagePath>Images\player.png</PackagePath>
+      <Modified>2013-12-17T05:28:50.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\rate.png">
+      <PackagePath>Images\rate.png</PackagePath>
+      <Modified>2013-12-10T18:07:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\settings.png">
+      <PackagePath>Images\settings.png</PackagePath>
+      <Modified>2013-12-10T18:07:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\share.png">
+      <PackagePath>Images\share.png</PackagePath>
+      <Modified>2013-12-10T18:07:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\Images\background.jpg">
+      <PackagePath>Images\background.jpg</PackagePath>
+      <Modified>2013-12-10T17:36:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-10T16:37:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\App_Page\GamePage.xaml">
+      <PackagePath>App_Page\GamePage.xaml</PackagePath>
+      <Modified>2013-12-18T05:50:18.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-12-17T10:04:10.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\glap-pc\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-17T10:46:53.339</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
